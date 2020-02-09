@@ -1,0 +1,8 @@
+com\sapient\weather_forecast\model\WeatherForecast.class
+com\sapient\weather_forecast\model\City.class
+com\sapient\weather_forecast\util\Constants.class
+com\sapient\weather_forecast\model\Temperature.class
+com\sapient\weather_forecast\controller\WeatherForecastController.class
+com\sapient\weather_forecast\model\WeatherDescription.class
+com\sapient\weather_forecast\WeatherForecastApplication.class
+com\sapient\weather_forecast\model\Weather.class
